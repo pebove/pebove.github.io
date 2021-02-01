@@ -2,5 +2,8 @@
     "customers": [
         {"name":"Aldo Baglio","age" : "32", "job":"Comico"},
         {"name": "Luca Asd", "age": "24", "job":"idraulico"},
-        {"name": "Francesco Dsa", "age": "26", "job":"architetto"}]
+        {"name": "Francesco Dsa", "age": "26", "job":"architetto"},
+        {"name": "Fra Si", "age": "19", "job":"Cuoco"},
+        {"name": "Mario Rossi", "age": "27", "job":"Insegnante"},
+        {"name": "Daniele Rotta", "age": "23", "job":"Disoccupato"} ]
 }  
